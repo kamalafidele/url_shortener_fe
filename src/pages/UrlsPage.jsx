@@ -98,7 +98,7 @@ function UrlsPage() {
 
               <div className="table">
                 {loading ? (
-                  <Loader>Loading clients......</Loader>
+                  <Loader>Loading URLs......</Loader>
                 ) : (
                   <table>
                     <thead>
